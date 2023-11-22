@@ -1,15 +1,15 @@
-<div style="text-align: center;">
+<div style="width: 100%; text-align: center;">
     <a href="https://www.betterrx.com/" target="_blank">
         <img src="https://asset.brandfetch.io/idnYvu72Eu/idGyAgAArS.png" alt="BetterRX Logo" width="360px" height="185px">
     </a>
 </div>
 
-<h1 style="text-align: center;"> BetterRX NPI Search API</h1>
+<h1 style="width: 100%; text-align: center;"> BetterRX NPI Search API</h1>
 <hr />
 
-<p style="text-align: center;">This is the API portion, or backend of the BetterRX coding test for Daniel Weipert.</p>
+<p style="width: 100%; text-align: center;">This is the API portion, or backend of the BetterRX coding test for Daniel Weipert.</p>
 
-<p style="text-align: center;">Directions for using this Laravel-based project and any other need-to-know information follows.</p>
+<p style="width: 100%; text-align: center;">Directions for using this Laravel-based project and any other need-to-know information follows.</p>
 
 
 ## About Laravel
