@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.betterrx.com/" target="_blank"><img style="width:100%; height:auto;" src="https://asset.brandfetch.io/idnYvu72Eu/idGyAgAArS.png" alt="BetterRX Logo"></a></p>
+<p align="center"><a href="https://www.betterrx.com/" target="_blank"><img style="width:100%; height:auto;" src="https://asset.brandfetch.io/idnYvu72Eu/idGyAgAArS.png" alt="BetterRX Logo" width="360px" height="185px"></a></p>
 
 # BetterRX NPI Search API
 ---
