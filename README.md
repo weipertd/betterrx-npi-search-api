@@ -5,7 +5,6 @@
 </div>
 
 <h1 style="width: 100%; text-align: center;"> BetterRX NPI Search API</h1>
-<hr />
 
 <p style="width: 100%; text-align: center;">This is the API portion, or backend of the BetterRX coding test for Daniel Weipert.</p>
 
